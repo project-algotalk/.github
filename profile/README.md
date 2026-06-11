@@ -6,7 +6,7 @@
 
 실전처럼 말하고, 데이터로 피드백 받는 모의 기술 면접
 
-[🌐 algotalk.kr](https://algotalk.kr)
+[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Falgotalk.kr&style=for-the-badge&label=algotalk.kr)](https://algotalk.kr)
 
 </div>
 
@@ -44,10 +44,10 @@ CS 기술 질문에 **음성으로 답변**하면, AI가 답변 내용을 분석
 
 | Repository | 설명 | 기술 스택 |
 |------------|------|----------|
-| [**AlgoTalk_BE**](https://github.com/AlgoTalk/AlgoTalk_BE) | Spring Boot MSA 백엔드 (Gateway · Eureka · User · Community · Interview) | Spring Boot 3.5, Spring Cloud, MyBatis |
-| [**AlgoTalk_FE**](https://github.com/AlgoTalk/AlgoTalk_FE) | React 프론트엔드 + 브라우저 실시간 영상 분석 | React, Zustand, MediaPipe |
-| [**AlgoTalk_AI**](https://github.com/AlgoTalk/AlgoTalk_AI) | AI 분석 서비스 (STT · 답변 분석) | FastAPI, OpenAI API |
-| [**AlgoTalk_Config**](https://github.com/AlgoTalk/AlgoTalk_Config) | Spring Cloud Config Server (중앙 설정 관리) | Spring Cloud Config |
+| [**AlgoTalk_BE**](https://github.com/project-algotalk/AlgoTalk_BE) | Spring Boot MSA 백엔드 (Gateway · Eureka · User · Community · Interview) | Spring Boot 3.5, Spring Cloud, MyBatis |
+| [**AlgoTalk_FE**](https://github.com/project-algotalk/AlgoTalk_FE) | React 프론트엔드 + 브라우저 실시간 영상 분석 | React, Zustand, MediaPipe |
+| [**AlgoTalk_AI**](https://github.com/project-algotalk/AlgoTalk_AI) | AI 분석 서비스 (STT · 답변 분석) | FastAPI, OpenAI API |
+| [**AlgoTalk_Config**](https://github.com/project-algotalk/AlgoTalk_Config) | Spring Cloud Config Server (중앙 설정 관리) | Spring Cloud Config |
 
 ---
 
