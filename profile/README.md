@@ -6,7 +6,7 @@
 
 실전처럼 말하고, 데이터로 피드백 받는 모의 기술 면접
 
-[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Falgotalk.kr&style=for-the-badge&label=algotalk.kr)](https://algotalk.kr)
+[![Website](https://img.shields.io/badge/🌐_algotalk.kr-Visit_Service-2563EB?style=for-the-badge)](https://algotalk.kr)
 
 </div>
 
@@ -139,7 +139,7 @@ closed #2
 | Frontend (React) | Oracle Cloud A1 + Nginx | `algotalk.kr` |
 | AI Service (FastAPI) | Oracle Cloud A1 + Docker | `algotalk.kr/ai` |
 | Backend MSA (Spring Boot) | AWS EC2 + Docker | `api.algotalk.kr` |
-| CI/CD | GitHub Actions | push 시 자동 빌드·배포 |
+| CI/CD | GitHub Actions | `main` 브랜치 merge 시 자동 빌드·배포 |
 
 ---
 
