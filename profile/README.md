@@ -147,6 +147,6 @@ closed #2
 
 🎓 졸업 프로젝트 · 1인 풀스택 개발
 
-Developed by [@AnJungHoon](https://github.com/AnJungHoon)
+Developed by [@AnJungHoon](https://github.com/ajh831)
 
 </div>
